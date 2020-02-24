@@ -1,0 +1,162 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "coverphoto": "https://images.pexels.com/photos/127028/pexels-photo-127028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "albumName": "cats"
+    },
+    {
+      "id": 2,
+      "coverphoto": "https://images.pexels.com/photos/374825/pexels-photo-374825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "albumName": "dogs"
+    },
+    {
+      "id": 3,
+      "coverphoto": "https://images.pexels.com/photos/53581/bald-eagles-bald-eagle-bird-of-prey-adler-53581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "albumName": "birds"
+    },
+    {
+      "id": 4,
+      "coverphoto": "https://images.pexels.com/photos/3688576/pexels-photo-3688576.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "albumName": "lizards"
+    },
+    {
+      "id": 5,
+      "coverphoto": "https://images.pexels.com/photos/326012/pexels-photo-326012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "albumName": "bunnies"
+    },
+    {
+      "id": 6,
+      "coverphoto": "https://images.pexels.com/photos/148182/pexels-photo-148182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "albumName": "red-pandas"
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "albumId": 1,
+      "url": "https://images.pexels.com/photos/127028/pexels-photo-127028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "title": "Cat with bright blue eyes",
+      "albumName": "cats"
+    },
+    {
+      "id": 2,
+      "albumId": 1,
+      "url": "https://images.pexels.com/photos/177809/pexels-photo-177809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "title": "Light brown cat laying on the floor",
+      "albumName": "cats"
+    },
+    {
+      "id": 3,
+      "albumId": 1,
+      "url": "https://images.pexels.com/photos/617278/pexels-photo-617278.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "title": "Dark brown cat with emerald eyes",
+      "albumName": "cats"
+    },
+    {
+      "id": 4,
+      "albumId": 2,
+      "url": "https://images.pexels.com/photos/374825/pexels-photo-374825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "title": "Two dogs laying on a bed",
+      "albumName": "dogs"
+    },
+    {
+      "id": 5,
+      "albumId": 2,
+      "url": "https://images.pexels.com/photos/39317/chihuahua-dog-puppy-cute-39317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "title": "Puppy in a tea cup",
+      "albumName": "dogs"
+    },
+    {
+      "id": 6,
+      "albumId": 2,
+      "url": "https://images.pexels.com/photos/434090/pexels-photo-434090.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "title": "Husky in snow",
+      "albumName": "dogs"
+    },
+    {
+      "id": 7,
+      "albumId": 3,
+      "url": "https://images.pexels.com/photos/53581/bald-eagles-bald-eagle-bird-of-prey-adler-53581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "title": "Bald Eagle",
+      "albumName": "birds"
+    },
+    {
+      "id": 8,
+      "albumId": 3,
+      "url": "https://images.pexels.com/photos/792416/pexels-photo-792416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "title": "Small blue and brown bird",
+      "albumName": "birds"
+    },
+    {
+      "id": 9,
+      "albumId": 3,
+      "url": "https://images.pexels.com/photos/2317904/pexels-photo-2317904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "title": "Gold and blue parrot",
+      "albumName": "birds"
+    },
+    {
+      "id": 10,
+      "albumId": 4,
+      "url": "https://images.pexels.com/photos/3688576/pexels-photo-3688576.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "title": "Green chameleon",
+      "albumName": "lizards"
+    },
+    {
+      "id": 11,
+      "albumId": 4,
+      "url": "https://images.pexels.com/photos/70568/spotted-baumwaran-monitor-tree-monitor-lizard-70568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "title": "Striped green long lizard",
+      "albumName": "lizards"
+    },
+    {
+      "id": 12,
+      "albumId": 4,
+      "url": "https://images.pexels.com/photos/927497/pexels-photo-927497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "title": "Green lizard with bright yellow eyes",
+      "albumName": "lizards"
+    },
+    {
+      "id": 13,
+      "albumId": 5,
+      "url": "https://images.pexels.com/photos/326012/pexels-photo-326012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "title": "Brown bunny on grass",
+      "albumName": "bunnies"
+    },
+    {
+      "id": 14,
+      "albumId": 5,
+      "url": "https://images.pexels.com/photos/372166/pexels-photo-372166.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "title": "White and brown bunny in a field of flowers",
+      "albumName": "bunnies"
+    },
+    {
+      "id": 15,
+      "albumId": 5,
+      "url": "https://images.pexels.com/photos/104373/pexels-photo-104373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "title": "Bunny sitting on grass",
+      "albumName": "bunnies"
+    },
+    {
+      "id": 16,
+      "albumId": 6,
+      "url": "https://images.pexels.com/photos/148182/pexels-photo-148182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "title": "Red Panda eating a plant",
+      "albumName": "red-pandas"
+    },
+    {
+      "id": 17,
+      "albumId": 6,
+      "url": "https://images.pexels.com/photos/145985/pexels-photo-145985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "title": "Red Panda scratching himself",
+      "albumName": "red-pandas"
+    },
+    {
+      "id": 18,
+      "albumId": 6,
+      "url": "https://images.pexels.com/photos/146631/pexels-photo-146631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "title": "Red Panda on a log",
+      "albumName": "red-pandas"
+    }
+  ]
+}
